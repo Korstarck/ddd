@@ -1,12 +1,12 @@
-[06:22:02] [INIT] KubeJS 1902.6.1-build.311; MC 1902 forge
-[06:22:02] [INIT] Loaded plugins:
-[06:22:02] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[06:22:02] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
-[06:22:02] [INIT] - fr.frinn.custommachinery.common.integration.kubejs.CustomMachineryKubeJSPlugin
-[06:22:02] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
-[06:22:02] [INIT] - dev.ftb.mods.ftbquests.integration.kubejs.KubeJSIntegration
-[06:22:02] [INIT] - thelm.jaopca.compat.kubejs.JAOPCAKubeJSPlugin
-[06:22:02] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[06:22:02] [INFO] startup_scripts:example.js:5: Hello, World! (Loaded startup scripts)
-[06:22:02] [INFO] Loaded script startup_scripts:example.js in 0.043 s
-[06:22:02] [INFO] Loaded 1/1 KubeJS startup scripts in 0.402 s
+[03:07:29] [INIT] KubeJS 1902.6.1-build.311; MC 1902 forge
+[03:07:29] [INIT] Loaded plugins:
+[03:07:29] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[03:07:29] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
+[03:07:29] [INIT] - fr.frinn.custommachinery.common.integration.kubejs.CustomMachineryKubeJSPlugin
+[03:07:29] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[03:07:29] [INIT] - dev.ftb.mods.ftbquests.integration.kubejs.KubeJSIntegration
+[03:07:29] [INIT] - thelm.jaopca.compat.kubejs.JAOPCAKubeJSPlugin
+[03:07:29] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[03:07:29] [INFO] startup_scripts:example.js:5: Hello, World! (Loaded startup scripts)
+[03:07:29] [INFO] Loaded script startup_scripts:example.js in 0.097 s
+[03:07:29] [INFO] Loaded 1/1 KubeJS startup scripts in 0.582 s
