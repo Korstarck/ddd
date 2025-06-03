@@ -1142,3 +1142,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [03Jun2025 05:03:02.134] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
 [03Jun2025 05:03:02.151] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [03Jun2025 05:03:02.169] [Server thread/INFO] [Jade/]: Syncing config to korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e)
+[03Jun2025 05:13:41.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has reached the goal [Hunted]
+[03Jun2025 05:13:58.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Suit Up]
+[03Jun2025 05:14:05.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Barrel Booty]

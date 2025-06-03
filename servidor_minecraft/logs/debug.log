@@ -13295,3 +13295,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [03Jun2025 05:06:01.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jun2025 05:06:01.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Jun2025 05:09:29.415] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of orcz:orc_camp_normal_loot
+[03Jun2025 05:11:01.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 05:11:01.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 05:13:41.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has reached the goal [Hunted]
+[03Jun2025 05:13:49.705] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[03Jun2025 05:13:58.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Suit Up]
+[03Jun2025 05:14:05.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Barrel Booty]
+[03Jun2025 05:16:01.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 05:16:01.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

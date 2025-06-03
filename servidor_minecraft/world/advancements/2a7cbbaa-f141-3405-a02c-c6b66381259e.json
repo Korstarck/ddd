@@ -241,6 +241,12 @@
     },
     "done": true
   },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-06-03 05:13:41 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
@@ -322,6 +328,12 @@
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-03 05:13:58 +0000"
     },
     "done": true
   },
@@ -474,6 +486,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-06-03 05:14:05 +0000",
       "opened_chest": "2025-06-03 03:14:13 +0000"
     },
     "done": false
@@ -620,6 +633,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:58 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-06-03 05:14:05 +0000"
     },
     "done": true
   },
