@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-06-03 03:09:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-06-03 03:09:58 +0000"
@@ -74,12 +80,6 @@
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-06-03 03:09:58 +0000"
-    },
-    "done": true
-  },
-  "toms_storage:unlock_netherite": {
-    "criteria": {
-      "inv_changed-netherite": "2025-06-03 03:09:57 +0000"
     },
     "done": true
   },
@@ -107,15 +107,15 @@
     },
     "done": true
   },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-06-03 03:14:13 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:58 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-06-03 03:14:13 +0000"
     },
     "done": true
   },
@@ -181,21 +181,27 @@
     },
     "done": true
   },
-  "myceliummire:mycelium_mire": {
-    "criteria": {
-      "mycelium_mire": "2025-06-03 03:09:59 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
     },
     "done": true
   },
+  "myceliummire:mycelium_mire": {
+    "criteria": {
+      "mycelium_mire": "2025-06-03 03:09:59 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-03 03:24:07 +0000"
     },
     "done": true
   },
@@ -253,17 +259,17 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-06-03 03:14:14 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-06-03 03:09:59 +0000"
     },
     "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-03 03:14:14 +0000"
+    },
+    "done": true
   },
   "comforts:rope_and_nail": {
     "criteria": {
@@ -277,17 +283,17 @@
     },
     "done": true
   },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-03 03:09:59 +0000"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:58 +0000"
     },
     "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-03 03:09:59 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
@@ -369,15 +375,21 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_gray_from_white": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_the_recipe": "2025-06-03 03:09:58 +0000"
+      "slept_in_bed": "2025-06-03 03:25:50 +0000"
     },
     "done": true
   },
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-06-03 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-06-03 03:09:58 +0000"
     },
     "done": true
   },
@@ -396,6 +408,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-03 03:17:13 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-06-03 03:24:02 +0000"
     },
     "done": true
   },
@@ -439,6 +457,12 @@
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-03 03:26:36 +0000"
     },
     "done": true
   },
@@ -491,15 +515,15 @@
     },
     "done": true
   },
-  "comforts:hammock_green_from_white": {
-    "criteria": {
-      "has_the_recipe": "2025-06-03 03:09:58 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-06-03 03:09:58 +0000"
     },
     "done": true
   },
@@ -509,15 +533,15 @@
     },
     "done": true
   },
-  "comforts:hammock_pink": {
-    "criteria": {
-      "has_the_recipe": "2025-06-03 03:09:58 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-06-03 03:09:58 +0000"
     },
     "done": true
   },
@@ -551,27 +575,27 @@
     },
     "done": true
   },
-  "orcz:orczchallenge": {
-    "criteria": {
-      "orczchallenge": "2025-06-03 03:09:58 +0000"
-    },
-    "done": true
-  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-06-03 03:09:57 +0000"
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
+  "orcz:orczchallenge": {
     "criteria": {
-      "stone_pickaxe": "2025-06-03 03:18:46 +0000"
+      "orczchallenge": "2025-06-03 03:09:58 +0000"
     },
     "done": true
   },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-03 03:18:46 +0000"
     },
     "done": true
   },
@@ -584,6 +608,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-03 03:24:02 +0000"
     },
     "done": true
   },
