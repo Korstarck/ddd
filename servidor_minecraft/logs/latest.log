@@ -2490,3 +2490,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [03Jun2025 03:14:11.484] [Worker-Main-6/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 22], pos: BlockPos{x=-161, y=70, z=365}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
 [03Jun2025 03:14:13.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement ['X' Marks the Spot]
 [03Jun2025 03:14:14.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Ice Bucket Challenge]
+[03Jun2025 03:18:35.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Stone Age]
+[03Jun2025 03:18:46.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Getting an Upgrade]
+[03Jun2025 03:21:28.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Monster Hunter]
+[03Jun2025 03:24:02.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Acquire Hardware]
+[03Jun2025 03:24:07.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Isn't It Iron Pick]
+[03Jun2025 03:25:50.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Sweet Dreams]
+[03Jun2025 03:26:36.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Take Aim]
+[03Jun2025 03:26:39.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck was tragically enlightened!
