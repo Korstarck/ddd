@@ -1141,3 +1141,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [04Jun2025 01:21:49.153] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [04Jun2025 01:21:49.184] [Server thread/INFO] [Jade/]: Syncing config to korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e)
 [04Jun2025 01:22:28.313] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@436df9c8
+[04Jun2025 01:30:32.959] [Worker-Main-13/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-1, 30], pos: BlockPos{x=-5, y=69, z=480}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:mycwangs]
+[04Jun2025 01:30:32.961] [Worker-Main-13/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-2, 30], pos: BlockPos{x=-21, y=69, z=480}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:mycwangs]
+[04Jun2025 01:30:32.978] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 01:30:32.979] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 01:30:32.980] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 01:30:32.980] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 01:30:32.981] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 01:30:32.981] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 01:30:32.981] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 01:30:32.982] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 01:30:32.982] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
