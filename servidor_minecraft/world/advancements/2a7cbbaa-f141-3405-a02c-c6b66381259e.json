@@ -373,6 +373,12 @@
     },
     "done": true
   },
+  "undead_unleashed:shards_of_the_past": {
+    "criteria": {
+      "shards_of_the_past": "2025-06-04 01:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-06-03 03:11:39 +0000",
@@ -548,6 +554,12 @@
     },
     "done": true
   },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter_0": "2025-06-04 01:47:04 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
@@ -649,12 +661,6 @@
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-06-04 01:44:11 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3120
 }
