@@ -1409,3 +1409,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [04Jun2025 01:54:13.888] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-2, 37], pos: BlockPos{x=-31, y=64, z=598}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
 [04Jun2025 01:54:13.888] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-2, 36], pos: BlockPos{x=-31, y=64, z=582}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
 [04Jun2025 01:54:13.888] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-2, 36], pos: BlockPos{x=-32, y=65, z=582}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 01:59:41.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck was slain by Orc Savage with Sword
+[04Jun2025 02:00:13.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Diamonds!]
+[04Jun2025 02:04:38.794] [Worker-Main-13/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[04Jun2025 02:05:59.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck was slain by Lightning Dragon
+[04Jun2025 02:06:19.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck was energized by Lightning Dragon
+[04Jun2025 02:06:29.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck was struck with lightning by Lightning Dragon
+[04Jun2025 02:07:32.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck was struck with lightning by Lightning Dragon
+[04Jun2025 02:08:18.954] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18971, l='ServerLevel[world]', x=730.88, y=90.92, z=53.30] died, message: 'Unemployed was struck with lightning by Lightning Dragon'
+[04Jun2025 02:08:44.303] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19207, l='ServerLevel[world]', x=692.77, y=90.00, z=18.41] died, message: 'Unemployed was slain by Lightning Dragon'
+[04Jun2025 02:08:56.908] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/19210, l='ServerLevel[world]', x=752.86, y=93.31, z=36.55] died, message: 'Farmer was energized by Lightning Dragon'
+[04Jun2025 02:10:59.103] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/19257, l='ServerLevel[world]', x=674.57, y=89.00, z=11.21] died, message: 'Farmer was energized by Lightning Dragon'
+[04Jun2025 02:11:40.459] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/19165, l='ServerLevel[world]', x=677.51, y=91.00, z=11.11] died, message: 'Weaponsmith was slain by Zombie'
+[04Jun2025 02:12:23.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Disme A Dozen]
+[04Jun2025 02:13:26.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Knight Quest]
+[04Jun2025 02:15:08.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Surge Protector]
+[04Jun2025 02:18:42.406] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19213, l='ServerLevel[world]', x=745.52, y=91.00, z=32.84] died, message: 'Unemployed was energized by Lightning Dragon'
