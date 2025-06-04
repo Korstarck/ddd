@@ -1152,3 +1152,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [04Jun2025 01:30:32.981] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
 [04Jun2025 01:30:32.982] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
 [04Jun2025 01:30:32.982] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 01:47:04.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has reached the goal [Troll Hunter]
