@@ -13691,3 +13691,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [04Jun2025 03:24:11.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jun2025 03:29:11.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jun2025 03:29:11.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 03:34:11.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 03:34:11.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 03:34:25.210] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:meteor1
+[04Jun2025 03:35:18.800] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house2
+[04Jun2025 03:35:18.819] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin1
+[04Jun2025 03:35:21.796] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/settlement_large
+[04Jun2025 03:35:21.814] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/farm_ruin/main
+[04Jun2025 03:35:21.823] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/top
+[04Jun2025 03:35:21.833] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/copper_house2
+[04Jun2025 03:37:34.175] [Worker-Main-13/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/house1 is being run through DFU (hash 5fe5d206578012046219f9e32fefe21c19bf13dec500868c89102fadf2bda50d), this will cause launch time delays
+[04Jun2025 03:37:35.025] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin2
+[04Jun2025 03:38:15.085] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin1
+[04Jun2025 03:39:11.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 03:39:11.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 03:39:45.385] [Worker-Main-13/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/ring1 is being run through DFU (hash 254c31f4f75da709e8ef1e44920fa872f1e6e42ee40ee7e3b16a11d212fc1ce0), this will cause launch time delays
+[04Jun2025 03:40:02.615] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/rock_house1
+[04Jun2025 03:40:02.628] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/ruin1
+[04Jun2025 03:44:11.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 03:44:11.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 03:49:11.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 03:49:11.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
