@@ -392,6 +392,7 @@
       "minecraft:badlands": "2025-06-04 02:05:19 +0000",
       "minecraft:savanna_plateau": "2025-06-04 01:55:39 +0000",
       "minecraft:river": "2025-06-03 03:11:39 +0000",
+      "minecraft:forest": "2025-06-04 02:15:01 +0000",
       "minecraft:savanna": "2025-06-03 03:14:03 +0000",
       "minecraft:plains": "2025-06-03 03:13:59 +0000"
     },
@@ -545,6 +546,12 @@
       "minecraft:zombie_villager": "2025-06-04 01:32:05 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-06-04 02:15:08 +0000"
+    },
+    "done": true
   },
   "mekanism:root": {
     "criteria": {
