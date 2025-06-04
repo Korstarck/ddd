@@ -1433,3 +1433,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [04Jun2025 03:00:28.703] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/25896, l='ServerLevel[world]', x=760.30, y=90.00, z=15.50] died, message: 'Farmer was energized by Lightning Dragon'
 [04Jun2025 03:00:29.154] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/25752, l='ServerLevel[world]', x=715.92, y=91.00, z=15.09] died, message: 'Mason was energized by Lightning Dragon'
 [04Jun2025 03:03:53.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [The Andesite Age]
+[04Jun2025 03:19:54.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Bonk!]

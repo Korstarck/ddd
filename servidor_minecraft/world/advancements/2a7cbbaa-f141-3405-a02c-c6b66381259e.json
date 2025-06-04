@@ -65,9 +65,21 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-06-04 03:24:22 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-06-04 03:19:54 +0000"
     },
     "done": true
   },
@@ -481,6 +493,12 @@
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-06-03 03:09:58 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-06-04 03:25:02 +0000"
     },
     "done": true
   },
