@@ -1480,3 +1480,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [04Jun2025 04:00:35.124] [Worker-Main-12/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [81, 3], pos: BlockPos{x=1296, y=68, z=50}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
 [04Jun2025 04:00:35.124] [Worker-Main-12/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [81, 3], pos: BlockPos{x=1296, y=68, z=49}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
 [04Jun2025 04:00:35.125] [Worker-Main-12/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [81, 3], pos: BlockPos{x=1296, y=69, z=50}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 05:06:03.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: korstarck lost connection: Disconnected
+[04Jun2025 05:06:03.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck left the game
+[04Jun2025 05:06:03.458] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
