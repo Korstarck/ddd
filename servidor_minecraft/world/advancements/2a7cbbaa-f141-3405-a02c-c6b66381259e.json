@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-06-04 03:49:51 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:58 +0000"
@@ -104,6 +110,12 @@
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-06-04 03:58:28 +0000"
     },
     "done": true
   },
@@ -344,6 +356,12 @@
     },
     "done": true
   },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-06-04 03:52:06 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-06-03 03:09:59 +0000"
@@ -412,6 +430,7 @@
       "minecraft:river": "2025-06-03 03:11:39 +0000",
       "minecraft:dripstone_caves": "2025-06-04 02:46:00 +0000",
       "minecraft:forest": "2025-06-04 02:15:01 +0000",
+      "minecraft:desert": "2025-06-04 03:58:24 +0000",
       "minecraft:jungle": "2025-06-04 03:37:54 +0000",
       "minecraft:savanna": "2025-06-03 03:14:03 +0000",
       "minecraft:plains": "2025-06-03 03:13:59 +0000"
@@ -573,6 +592,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-04 01:32:19 +0000",
+      "minecraft:spider": "2025-06-04 03:52:21 +0000",
       "minecraft:zombie": "2025-06-03 03:21:32 +0000",
       "minecraft:drowned": "2025-06-03 03:21:28 +0000",
       "minecraft:zombie_villager": "2025-06-04 01:32:05 +0000"

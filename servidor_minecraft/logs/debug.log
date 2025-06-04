@@ -13712,3 +13712,43 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [04Jun2025 03:44:11.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jun2025 03:49:11.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jun2025 03:49:11.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 03:54:11.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 03:54:11.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 03:56:24.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck was energized by Lightning Dragon
+[04Jun2025 03:56:26.182] [Server thread/DEBUG] [twilightforest/]: Player korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e) respawned and received items held in storage
+[04Jun2025 03:58:22.350] [Worker-Main-20/WARN] [ModernFix/]: The namespace friendsandfoes contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[04Jun2025 03:58:22.351] [Worker-Main-20/DEBUG] [ModernFix/]: Structure friendsandfoes:village/desert/houses/desert_copper_golem_area is being run through DFU (hash 523076f4329546f88baf81bb0738e9136326ef1a2eba2651ad8b710977191290), this will cause launch time delays
+[04Jun2025 03:58:23.524] [Worker-Main-20/WARN] [ModernFix/]: The namespace farmersdelight contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[04Jun2025 03:58:23.524] [Worker-Main-20/DEBUG] [ModernFix/]: Structure farmersdelight:village/houses/desert_compost_pile is being run through DFU (hash c806a3403a5760942762d159958748160b9059fbba0d015a616c97f5beb80393), this will cause launch time delays
+[04Jun2025 03:58:24.744] [Worker-Main-20/DEBUG] [ModernFix/]: Structure iceandfire:village/desert_scriber_1 is being run through DFU (hash a4c7b209c6b9843cf1ae3380d95e5861ca6debff009fb170d0fdaeb52fa22a18), this will cause launch time delays
+[04Jun2025 03:58:26.510] [Worker-Main-12/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/pool1 is being run through DFU (hash dfddb602e984f304d701eab3878292cf7f577e8cabe02f7f723062aca2b5e079), this will cause launch time delays
+[04Jun2025 03:58:28.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Eye of The Storm]
+[04Jun2025 03:59:11.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 03:59:11.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 03:59:18.972] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin3
+[04Jun2025 03:59:19.524] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:19.524] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:19.524] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:19.524] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:19.524] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:19.524] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:19.524] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:19.524] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:19.525] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:23.385] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [68, 27], pos: BlockPos{x=1103, y=52, z=435}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 03:59:23.385] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [68, 28], pos: BlockPos{x=1103, y=52, z=451}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 03:59:23.408] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [70, 31], pos: BlockPos{x=1129, y=60, z=496}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 03:59:23.408] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [71, 31], pos: BlockPos{x=1145, y=60, z=496}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 03:59:23.410] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [70, 31], pos: BlockPos{x=1121, y=60, z=496}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 03:59:23.411] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [69, 31], pos: BlockPos{x=1105, y=60, z=496}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 03:59:41.197] [Worker-Main-12/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [74, 25], pos: BlockPos{x=1184, y=63, z=413}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 03:59:41.198] [Worker-Main-12/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [74, 24], pos: BlockPos{x=1184, y=63, z=397}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 03:59:46.877] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:46.877] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:46.877] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:46.877] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:46.877] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:46.877] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:46.878] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:46.878] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:46.878] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader

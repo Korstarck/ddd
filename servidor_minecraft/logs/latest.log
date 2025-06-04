@@ -1434,3 +1434,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [04Jun2025 03:00:29.154] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/25752, l='ServerLevel[world]', x=715.92, y=91.00, z=15.09] died, message: 'Mason was energized by Lightning Dragon'
 [04Jun2025 03:03:53.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [The Andesite Age]
 [04Jun2025 03:19:54.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Bonk!]
+[04Jun2025 03:56:24.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck was energized by Lightning Dragon
+[04Jun2025 03:58:22.350] [Worker-Main-20/WARN] [ModernFix/]: The namespace friendsandfoes contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[04Jun2025 03:58:23.524] [Worker-Main-20/WARN] [ModernFix/]: The namespace farmersdelight contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[04Jun2025 03:58:28.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Eye of The Storm]
+[04Jun2025 03:59:19.524] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:19.524] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:19.524] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:19.524] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:19.524] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:19.524] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:19.524] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:19.524] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:19.525] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:23.385] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [68, 27], pos: BlockPos{x=1103, y=52, z=435}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 03:59:23.385] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [68, 28], pos: BlockPos{x=1103, y=52, z=451}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 03:59:23.408] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [70, 31], pos: BlockPos{x=1129, y=60, z=496}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 03:59:23.408] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [71, 31], pos: BlockPos{x=1145, y=60, z=496}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 03:59:23.410] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [70, 31], pos: BlockPos{x=1121, y=60, z=496}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 03:59:23.411] [Worker-Main-20/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [69, 31], pos: BlockPos{x=1105, y=60, z=496}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 03:59:41.197] [Worker-Main-12/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [74, 25], pos: BlockPos{x=1184, y=63, z=413}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 03:59:41.198] [Worker-Main-12/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [74, 24], pos: BlockPos{x=1184, y=63, z=397}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[04Jun2025 03:59:46.877] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:46.877] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:46.877] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:46.877] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:46.877] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:46.877] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:46.878] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:46.878] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[04Jun2025 03:59:46.878] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
