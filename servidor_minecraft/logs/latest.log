@@ -1175,3 +1175,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [05Jun2025 23:21:20.081] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
 [05Jun2025 23:21:20.081] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [05Jun2025 23:21:20.082] [Server thread/INFO] [Jade/]: Syncing config to korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e)
+[05Jun2025 23:27:05.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: korstarck lost connection: Timed out
+[05Jun2025 23:27:05.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck left the game
+[05Jun2025 23:27:05.474] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[05Jun2025 23:29:25.522] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2ac861f2
+[05Jun2025 23:29:25.537] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: korstarck[/127.68.90.235:50825] logged in with entity id 14146 at (822.6999999880791, 73.0, 317.6789463915112)
+[05Jun2025 23:29:25.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck joined the game
+[05Jun2025 23:29:25.573] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[05Jun2025 23:29:25.573] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[05Jun2025 23:29:25.573] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[05Jun2025 23:29:25.574] [Server thread/INFO] [Jade/]: Syncing config to korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e)
