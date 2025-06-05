@@ -13324,3 +13324,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [05Jun2025 01:25:41.200] [Server thread/DEBUG] [mixin/]: Mixing MixinBeltHelper from railways-common.mixins.json into com.simibubi.create.content.kinetics.belt.BeltHelper
 [05Jun2025 01:25:53.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jun2025 01:25:53.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 01:30:53.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 01:30:54.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 01:35:51.549] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[05Jun2025 01:35:53.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 01:35:53.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
