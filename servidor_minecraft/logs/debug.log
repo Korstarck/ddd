@@ -13295,3 +13295,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [05Jun2025 01:05:34.362] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [05Jun2025 01:05:53.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jun2025 01:05:53.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 01:10:53.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 01:10:53.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 01:15:53.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 01:15:53.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 01:17:12.116] [Worker-Main-33/DEBUG] [mixin/]: Mixing WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jun2025 01:17:12.116] [Worker-Main-33/DEBUG] [mixin/]: Mixing alloc.empty_list.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jun2025 01:17:12.117] [Worker-Main-33/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jun2025 01:17:14.578] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[05Jun2025 01:17:15.673] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_1
+[05Jun2025 01:17:15.674] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_2
+[05Jun2025 01:17:15.675] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of orcz:fake_tree
+[05Jun2025 01:17:15.675] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar
+[05Jun2025 01:17:15.676] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_3
+[05Jun2025 01:17:15.676] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of orcz:camp_setup_big
+[05Jun2025 01:17:27.551] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:oil
+[05Jun2025 01:17:29.923] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:dungeon/moon/entrance
+[05Jun2025 01:17:38.620] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:meteor2
+[05Jun2025 01:17:41.601] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[05Jun2025 01:17:41.641] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[05Jun2025 01:17:41.700] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[05Jun2025 01:17:41.714] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[05Jun2025 01:17:41.716] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[05Jun2025 01:18:32.027] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:meteor1
+[05Jun2025 01:19:31.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Gone Bananas!]
