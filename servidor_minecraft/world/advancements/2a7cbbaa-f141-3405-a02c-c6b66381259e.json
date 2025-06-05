@@ -161,6 +161,13 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "red": "2025-06-05 23:41:11 +0000",
+      "blue": "2025-06-05 23:41:03 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
