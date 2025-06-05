@@ -1168,3 +1168,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [05Jun2025 01:56:33.357] [Server thread/INFO] [Jade/]: Syncing config to korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e)
 [05Jun2025 02:02:33.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [korstarck: Set own game mode to Creative Mode]
 [05Jun2025 02:03:19.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [korstarck: Set own game mode to Survival Mode]
+[05Jun2025 03:01:26.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: korstarck lost connection: Disconnected
+[05Jun2025 03:01:26.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck left the game
+[05Jun2025 03:01:26.450] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
