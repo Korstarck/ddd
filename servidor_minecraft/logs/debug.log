@@ -13295,3 +13295,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [05Jun2025 05:14:47.831] [Server thread/DEBUG] [mixin/]: Mixing ai.task.replace_streams.ShufflingListMixin from canary.mixins.json into net.minecraft.world.entity.ai.behavior.ShufflingList
 [05Jun2025 05:19:23.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jun2025 05:19:23.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 05:24:23.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 05:24:23.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 05:29:23.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 05:29:23.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 05:32:20.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:oil
+[05Jun2025 05:32:21.065] [Worker-Main-6/DEBUG] [mixin/]: Mixing WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jun2025 05:32:21.065] [Worker-Main-6/DEBUG] [mixin/]: Mixing alloc.empty_list.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jun2025 05:32:21.066] [Worker-Main-6/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jun2025 05:32:22.872] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_1
+[05Jun2025 05:32:22.873] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_2
+[05Jun2025 05:32:22.873] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of orcz:fake_tree
+[05Jun2025 05:32:22.874] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar
+[05Jun2025 05:32:22.875] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_3
+[05Jun2025 05:32:22.876] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of orcz:camp_setup_big
+[05Jun2025 05:32:32.235] [Worker-Main-4/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[05Jun2025 05:32:32.236] [Worker-Main-4/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/ring2 is being run through DFU (hash 5c7479e0b7fbb5d75482841a54c2beec57561b96fc29a5d21610cfde56fc47de), this will cause launch time delays
+[05Jun2025 05:32:36.565] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:warped_watch_tower
+[05Jun2025 05:32:37.465] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:dungeon/moon/entrance
+[05Jun2025 05:32:46.377] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:temple/mars/mars_temple
+[05Jun2025 05:32:47.376] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of orcz:orc_camp_normal_loot
+[05Jun2025 05:32:48.778] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:meteor1
+[05Jun2025 05:33:08.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[05Jun2025 05:33:08.051] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[05Jun2025 05:33:08.053] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon

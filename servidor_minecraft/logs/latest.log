@@ -1144,3 +1144,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [05Jun2025 05:04:38.111] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
 [05Jun2025 05:04:38.132] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [05Jun2025 05:04:38.156] [Server thread/INFO] [Jade/]: Syncing config to korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e)
+[05Jun2025 05:32:32.235] [Worker-Main-4/WARN] [ModernFix/]: The namespace structory contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
