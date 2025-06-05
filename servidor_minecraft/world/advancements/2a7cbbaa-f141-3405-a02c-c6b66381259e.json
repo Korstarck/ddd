@@ -200,6 +200,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-06-05 01:19:31 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:58 +0000"
@@ -431,6 +437,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:eroded_badlands": "2025-06-04 02:08:57 +0000",
+      "minecraft:wooded_badlands": "2025-06-05 01:17:16 +0000",
       "minecraft:badlands": "2025-06-04 02:05:19 +0000",
       "minecraft:savanna_plateau": "2025-06-04 01:55:39 +0000",
       "minecraft:river": "2025-06-03 03:11:39 +0000",

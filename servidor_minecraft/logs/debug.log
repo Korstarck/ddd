@@ -13319,3 +13319,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [05Jun2025 01:17:41.716] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
 [05Jun2025 01:18:32.027] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:meteor1
 [05Jun2025 01:19:31.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Gone Bananas!]
+[05Jun2025 01:20:53.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 01:20:54.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 01:25:41.200] [Server thread/DEBUG] [mixin/]: Mixing MixinBeltHelper from railways-common.mixins.json into com.simibubi.create.content.kinetics.belt.BeltHelper
+[05Jun2025 01:25:53.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 01:25:53.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
