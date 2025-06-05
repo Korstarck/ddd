@@ -1188,3 +1188,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [05Jun2025 05:45:57.119] [Worker-Main-5/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [31, 57], pos: BlockPos{x=509, y=68, z=912}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
 [05Jun2025 05:45:57.120] [Worker-Main-5/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [30, 57], pos: BlockPos{x=493, y=68, z=912}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
 [05Jun2025 05:51:34.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Nerves of Steel]
+[05Jun2025 06:04:14.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [korstarck: Set own game mode to Creative Mode]
