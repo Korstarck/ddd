@@ -459,6 +459,7 @@
       "minecraft:badlands": "2025-06-04 02:05:19 +0000",
       "minecraft:savanna_plateau": "2025-06-04 01:55:39 +0000",
       "minecraft:river": "2025-06-03 03:11:39 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-05 05:39:33 +0000",
       "minecraft:stony_shore": "2025-06-05 01:02:54 +0000",
       "minecraft:dripstone_caves": "2025-06-04 02:46:00 +0000",
       "minecraft:forest": "2025-06-04 02:15:01 +0000",
@@ -615,6 +616,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-05 05:39:50 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
@@ -727,6 +734,12 @@
   "orcz:orczchallenge": {
     "criteria": {
       "orczchallenge": "2025-06-03 03:09:58 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-06-05 05:44:21 +0000"
     },
     "done": true
   },
