@@ -14955,3 +14955,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [06Jun2025 03:25:38.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:oil
 [06Jun2025 03:26:29.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jun2025 03:26:29.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 03:31:29.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 03:31:29.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 03:36:29.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 03:36:29.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 03:37:24.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of farmersdelight:village/houses/desert_compost_pile
+[06Jun2025 03:37:24.611] [Worker-Main-172/DEBUG] [mixin/]: Mixing WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06Jun2025 03:37:24.611] [Worker-Main-172/DEBUG] [mixin/]: Mixing alloc.empty_list.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06Jun2025 03:37:24.611] [Worker-Main-172/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06Jun2025 03:37:26.253] [Worker-Main-241/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_1
+[06Jun2025 03:37:26.254] [Worker-Main-241/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_2
+[06Jun2025 03:37:26.255] [Worker-Main-241/DEBUG] [ModernFix/]: Using cached upgraded version of orcz:fake_tree
+[06Jun2025 03:37:26.256] [Worker-Main-241/DEBUG] [ModernFix/]: Using cached upgraded version of orcz:camp_setup_big
+[06Jun2025 03:37:26.256] [Worker-Main-241/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_3
+[06Jun2025 03:37:26.257] [Worker-Main-241/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar
