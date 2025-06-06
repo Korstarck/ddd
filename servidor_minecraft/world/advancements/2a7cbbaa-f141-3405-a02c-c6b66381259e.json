@@ -448,6 +448,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-06-06 00:13:11 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
