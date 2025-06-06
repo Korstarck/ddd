@@ -168,6 +168,12 @@
     },
     "done": true
   },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-06-06 04:29:52 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
@@ -500,6 +506,12 @@
   "undead_unleashed:shards_of_the_past": {
     "criteria": {
       "shards_of_the_past": "2025-06-04 01:49:01 +0000"
+    },
+    "done": true
+  },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2025-06-06 04:29:56 +0000"
     },
     "done": true
   },
@@ -897,6 +909,12 @@
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-06-06 04:36:29 +0000"
+    },
+    "done": false
   },
   "gobber2:gobber2_tree_axe": {
     "criteria": {
