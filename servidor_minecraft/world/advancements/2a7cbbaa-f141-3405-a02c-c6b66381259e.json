@@ -201,6 +201,18 @@
     },
     "done": false
   },
+  "gobber2:gobber2_glob": {
+    "criteria": {
+      "gobber2_glob": "2025-06-06 00:26:45 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_sword": {
+    "criteria": {
+      "gobber2_sword": "2025-06-06 00:28:08 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
@@ -222,6 +234,12 @@
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:58 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_hammer": {
+    "criteria": {
+      "gobber2_hammer": "2025-06-06 00:27:44 +0000"
     },
     "done": true
   },
@@ -642,6 +660,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_excavator": {
+    "criteria": {
+      "gobber2_excavator": "2025-06-06 00:27:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-04 01:32:19 +0000",
@@ -665,6 +689,12 @@
   "mekanism:root": {
     "criteria": {
       "automatic": "2025-06-03 03:09:58 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot": {
+    "criteria": {
+      "gobber2_ingot": "2025-06-06 00:26:58 +0000"
     },
     "done": true
   },
@@ -719,6 +749,12 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_rod": {
+    "criteria": {
+      "gobber2_rod": "2025-06-06 00:27:36 +0000"
     },
     "done": true
   },

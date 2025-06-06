@@ -14564,3 +14564,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [06Jun2025 00:21:29.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jun2025 00:26:29.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jun2025 00:26:29.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 00:27:44.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Make a Tunnel to Nowhere]
+[06Jun2025 00:27:49.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [The Big Digger]
+[06Jun2025 00:28:08.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [A Better Blade]
+[06Jun2025 00:31:29.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 00:31:29.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 00:36:29.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 00:36:29.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
