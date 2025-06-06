@@ -862,6 +862,12 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-06-06 04:25:33 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:58 +0000"
