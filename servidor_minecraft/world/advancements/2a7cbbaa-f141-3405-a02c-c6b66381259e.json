@@ -866,5 +866,11 @@
     },
     "done": true
   },
+  "gobber2:gobber2_tree_axe": {
+    "criteria": {
+      "gobber2_tree_axe": "2025-06-06 02:50:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3120
 }
