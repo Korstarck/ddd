@@ -1143,3 +1143,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [07Jun2025 03:20:27.650] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
 [07Jun2025 03:20:27.671] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [07Jun2025 03:20:27.688] [Server thread/INFO] [Jade/]: Syncing config to korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e)
+[07Jun2025 04:09:01.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck was blown up by Intruder
+[07Jun2025 04:09:01.218] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for korstarck with unique ID travelersbackpack.standard_07.06.2025-04.09.01.dat
+[07Jun2025 04:09:01.220] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 815 Y: 8.796735600668693 Z: 323

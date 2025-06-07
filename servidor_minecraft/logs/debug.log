@@ -13296,3 +13296,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [07Jun2025 03:58:30.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jun2025 04:03:30.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jun2025 04:03:30.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 04:08:30.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 04:08:30.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 04:08:59.553] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[07Jun2025 04:09:01.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck was blown up by Intruder
+[07Jun2025 04:09:01.218] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for korstarck with unique ID travelersbackpack.standard_07.06.2025-04.09.01.dat
+[07Jun2025 04:09:01.220] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 815 Y: 8.796735600668693 Z: 323
+[07Jun2025 04:09:03.295] [Server thread/DEBUG] [twilightforest/]: Player korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e) respawned and received items held in storage
+[07Jun2025 04:10:02.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:oil
+[07Jun2025 04:13:30.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 04:13:30.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 04:13:55.685] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_corner
+[07Jun2025 04:13:55.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector1
+[07Jun2025 04:13:55.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house3
+[07Jun2025 04:13:55.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector5
+[07Jun2025 04:13:55.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/circle_small
+[07Jun2025 04:14:07.137] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:village/plains/houses/plains_beekeeper_area
+[07Jun2025 04:14:07.145] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of friendsandfoes:village/plains/houses/plains_copper_golem_area
+[07Jun2025 04:14:07.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
