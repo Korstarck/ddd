@@ -1143,3 +1143,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [08Jun2025 23:28:49.860] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
 [08Jun2025 23:28:49.879] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [08Jun2025 23:28:49.898] [Server thread/INFO] [Jade/]: Syncing config to korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e)
+[08Jun2025 23:50:40.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jun2025 23:50:58.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
+[08Jun2025 23:51:17.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3755ms or 75 ticks behind
+[08Jun2025 23:51:36.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4756ms or 95 ticks behind
+[08Jun2025 23:51:55.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3876ms or 77 ticks behind
