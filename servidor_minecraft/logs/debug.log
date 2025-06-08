@@ -13293,3 +13293,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [08Jun2025 07:02:25.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Jun2025 07:07:25.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jun2025 07:07:25.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 07:12:25.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 07:12:25.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 07:15:03.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Vampire Slayer]
+[08Jun2025 07:17:25.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 07:17:25.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 07:19:43.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: korstarck lost connection: Disconnected
+[08Jun2025 07:19:43.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck left the game
+[08Jun2025 07:19:43.147] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
