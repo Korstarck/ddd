@@ -535,6 +535,7 @@
       "minecraft:desert": "2025-06-04 03:58:24 +0000",
       "minecraft:jungle": "2025-06-04 03:37:54 +0000",
       "minecraft:warm_ocean": "2025-06-06 03:37:41 +0000",
+      "minecraft:deep_dark": "2025-06-08 06:49:20 +0000",
       "minecraft:savanna": "2025-06-03 03:14:03 +0000",
       "minecraft:plains": "2025-06-03 03:13:59 +0000"
     },
@@ -718,6 +719,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-08 06:54:18 +0000",
       "minecraft:skeleton": "2025-06-04 01:32:19 +0000",
       "minecraft:spider": "2025-06-04 03:52:21 +0000",
       "minecraft:creeper": "2025-06-05 05:22:04 +0000",
@@ -801,6 +803,12 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-08 06:54:18 +0000"
     },
     "done": true
   },

@@ -1143,3 +1143,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [08Jun2025 06:35:24.413] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [08Jun2025 06:35:24.427] [Server thread/INFO] [Jade/]: Syncing config to korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e)
 [08Jun2025 06:38:45.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has reached the goal [Workout Session]
+[08Jun2025 06:54:18.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Voluntary Exile]
