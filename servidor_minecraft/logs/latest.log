@@ -878,3 +878,13 @@
 [09Jun2025 01:05:04.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: korstarck lost connection: Disconnected
 [09Jun2025 01:05:04.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck left the game
 [09Jun2025 01:05:04.366] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[09Jun2025 02:05:20.109] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@47bae16a
+[09Jun2025 02:05:20.131] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: korstarck[/127.68.90.235:54467] logged in with entity id 94665 at (811.2947807990735, 73.0, 317.7137556624009)
+[09Jun2025 02:05:20.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck joined the game
+[09Jun2025 02:05:20.166] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[09Jun2025 02:05:20.166] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[09Jun2025 02:05:20.166] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[09Jun2025 02:05:20.167] [Server thread/INFO] [Jade/]: Syncing config to korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e)
+[09Jun2025 02:05:55.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: korstarck lost connection: Disconnected
+[09Jun2025 02:05:55.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck left the game
+[09Jun2025 02:05:55.913] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
