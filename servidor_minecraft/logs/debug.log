@@ -15707,3 +15707,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [09Jun2025 04:02:24.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has reached the goal [Beyond the Embers]
 [09Jun2025 04:04:20.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jun2025 04:04:20.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 04:06:05.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/156241, l='ServerLevel[world]', x=76.51, y=47.00, z=-239.79] died: Desert Blaze was slain by korstarck
+[09Jun2025 04:06:06.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/156243, l='ServerLevel[world]', x=74.29, y=47.50, z=-235.01] died: Desert Blaze was slain by korstarck
+[09Jun2025 04:06:08.475] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/156245, l='ServerLevel[world]', x=72.95, y=53.53, z=-227.88] died: Desert Blaze was slain by korstarck
+[09Jun2025 04:06:13.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/156242, l='ServerLevel[world]', x=71.59, y=49.32, z=-227.01] died: Desert Blaze was slain by korstarck
+[09Jun2025 04:06:38.249] [Worker-Main-176/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [4, -17], pos: BlockPos{x=79, y=52, z=-261}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 04:06:38.249] [Worker-Main-176/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [4, -18], pos: BlockPos{x=79, y=52, z=-276}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 04:06:38.249] [Worker-Main-176/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [4, -17], pos: BlockPos{x=78, y=52, z=-260}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 04:06:38.249] [Worker-Main-176/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [4, -18], pos: BlockPos{x=78, y=52, z=-276}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 04:06:38.249] [Worker-Main-176/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [4, -18], pos: BlockPos{x=79, y=53, z=-276}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 04:07:06.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: korstarck lost connection: Disconnected
+[09Jun2025 04:07:06.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck left the game
+[09Jun2025 04:07:06.720] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[09Jun2025 04:09:20.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 04:09:20.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 04:14:20.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 04:14:20.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
