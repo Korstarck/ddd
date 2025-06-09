@@ -15687,3 +15687,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [09Jun2025 03:51:07.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Boo!]
 [09Jun2025 03:54:17.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jun2025 03:54:17.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:55:08.424] [Worker-Main-200/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/staircase1
+[09Jun2025 03:58:01.436] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:warped_watch_tower
+[09Jun2025 03:58:03.512] [Worker-Main-200/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 03:58:03.512] [Worker-Main-200/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 03:58:03.736] [Worker-Main-209/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 03:58:03.737] [Worker-Main-209/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 03:58:04.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2863ms or 57 ticks behind
+[09Jun2025 03:58:04.916] [Worker-Main-174/DEBUG] [ModernFix/]: Structure structory:outcast_villager/farm_ruin/connector is being run through DFU (hash f9cdb714b98bbe1cef2000d8dd772c7b4287f690d0d5a2d6219fc5fc18f9aab3), this will cause launch time delays
+[09Jun2025 03:58:06.167] [Worker-Main-174/DEBUG] [ModernFix/]: Structure structory:entities/villager/vagabond is being run through DFU (hash 1de257ef5b9a3faf8dd8f68da26f05e1f53c14d5f8b9b6d7708546d7c71fddf7), this will cause launch time delays
+[09Jun2025 03:58:07.957] [Worker-Main-174/DEBUG] [ModernFix/]: Structure structory:outcast_villager/farm_ruin/outer5 is being run through DFU (hash 7a03be87870e68dfb8a47f1049f836854add4f2be2c15b2731f0d1cc1683d9e6), this will cause launch time delays
+[09Jun2025 03:59:20.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:59:20.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 04:01:33.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHILD ETECted
+[09Jun2025 04:01:33.604] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity myceliummire:slamentity but it was marked as removed already
+[09Jun2025 04:02:19.874] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/153829, l='ServerLevel[world]', x=73.25, y=60.00, z=-178.57] died: Desert Blaze was slain by korstarck
+[09Jun2025 04:02:23.007] [Worker-Main-176/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/settlement_large
+[09Jun2025 04:02:23.025] [Worker-Main-176/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/copper_house2
+[09Jun2025 04:02:24.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has reached the goal [Beyond the Embers]
+[09Jun2025 04:04:20.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 04:04:20.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

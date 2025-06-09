@@ -987,6 +987,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/inferno/root": {
+    "criteria": {
+      "requirement": "2025-06-09 04:02:24 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-06-03 03:09:57 +0000"
