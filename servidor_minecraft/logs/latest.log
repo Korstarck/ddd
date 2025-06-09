@@ -895,3 +895,41 @@
 [09Jun2025 02:54:51.046] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
 [09Jun2025 02:54:51.047] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [09Jun2025 02:54:51.047] [Server thread/INFO] [Jade/]: Syncing config to korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e)
+[09Jun2025 03:21:17.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Light-Sensitive]
+[09Jun2025 03:21:17.527] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106162, l='ServerLevel[world]', x=82.10, y=64.00, z=46.23] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:20.216] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106213, l='ServerLevel[world]', x=85.28, y=65.38, z=49.67] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:22.015] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106208, l='ServerLevel[world]', x=79.79, y=64.00, z=48.59] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:22.916] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106209, l='ServerLevel[world]', x=75.30, y=66.26, z=49.39] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:26.561] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106212, l='ServerLevel[world]', x=90.48, y=60.85, z=52.02] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:37.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106188, l='ServerLevel[world]', x=74.94, y=65.93, z=40.82] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:40.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106205, l='ServerLevel[world]', x=73.98, y=65.00, z=53.37] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:44.423] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106202, l='ServerLevel[world]', x=62.67, y=67.34, z=56.68] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:49.466] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106187, l='ServerLevel[world]', x=65.30, y=63.49, z=41.88] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:54.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106186, l='ServerLevel[world]', x=63.27, y=71.96, z=34.25] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:22:05.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/107224, l='ServerLevel[world]', x=50.28, y=65.28, z=51.47] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:22:12.314] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106247, l='ServerLevel[world]', x=54.13, y=65.60, z=36.50] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:23:17.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Nightmare Fuel]
+[09Jun2025 03:23:26.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/108523, l='ServerLevel[world]', x=-9.50, y=95.00, z=-47.62] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:24:37.763] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/109025, l='ServerLevel[world]', x=-17.60, y=106.15, z=-57.82] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:24:47.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [The Path to Better Gear]
+[09Jun2025 03:25:00.109] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/108577, l='ServerLevel[world]', x=-14.00, y=112.13, z=-67.25] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:25:18.958] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/109092, l='ServerLevel[world]', x=-18.58, y=113.00, z=-74.34] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:25:30.733] [Worker-Main-174/WARN] [ModernFix/]: The namespace incendium contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Jun2025 03:26:02.132] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/110204, l='ServerLevel[world]', x=-114.99, y=87.83, z=-30.04] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:28:56.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/111777, l='ServerLevel[world]', x=-18.94, y=36.39, z=153.15] died: Desert Blaze was shot by korstarck
+[09Jun2025 03:31:48.492] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-37, y=104, z=131}
+[09Jun2025 03:31:48.503] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=131, z=95}
+[09Jun2025 03:31:48.503] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=131, z=104}
+[09Jun2025 03:31:48.634] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-180, y=131, z=95}
+[09Jun2025 03:31:48.634] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-180, y=131, z=104}
+[09Jun2025 03:31:48.634] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=131, z=95}
+[09Jun2025 03:31:48.635] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=131, z=104}
+[09Jun2025 03:31:54.070] [Worker-Main-209/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=104, z=125}
+[09Jun2025 03:32:17.598] [Worker-Main-206/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=113, z=106}
+[09Jun2025 03:32:17.598] [Worker-Main-206/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=113, z=107}
+[09Jun2025 03:32:17.598] [Worker-Main-206/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=113, z=108}
+[09Jun2025 03:32:17.599] [Worker-Main-206/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=113, z=105}
+[09Jun2025 03:33:04.553] [Worker-Main-176/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=104, z=92}
+[09Jun2025 03:33:37.667] [Worker-Main-207/WARN] [ModernFix/]: The namespace stalwart_dungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Jun2025 03:33:46.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has reached the goal [An Illager Refuge?]
+[09Jun2025 03:34:02.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Hellish Paradise]

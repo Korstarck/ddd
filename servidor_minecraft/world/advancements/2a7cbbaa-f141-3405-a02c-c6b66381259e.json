@@ -42,6 +42,12 @@
     },
     "done": false
   },
+  "incendium:quartz_flats/sanctum/root": {
+    "criteria": {
+      "requirement": "2025-06-09 03:33:46 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
@@ -128,7 +134,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:infernal_dunes": "2025-06-08 21:37:29 +0000"
+      "incendium:infernal_dunes": "2025-06-08 21:37:29 +0000",
+      "incendium:quartz_flats": "2025-06-09 03:34:02 +0000"
     },
     "done": false
   },
@@ -250,6 +257,12 @@
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-06-09 03:21:17 +0000"
     },
     "done": true
   },
@@ -811,9 +824,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-08 06:54:18 +0000",
+      "minecraft:blaze": "2025-06-09 03:21:17 +0000",
       "minecraft:skeleton": "2025-06-04 01:32:19 +0000",
       "minecraft:ravager": "2025-06-08 21:35:08 +0000",
       "minecraft:vindicator": "2025-06-08 21:33:05 +0000",
+      "minecraft:magma_cube": "2025-06-09 03:21:53 +0000",
       "minecraft:spider": "2025-06-04 03:52:21 +0000",
       "minecraft:creeper": "2025-06-05 05:22:04 +0000",
       "minecraft:phantom": "2025-06-05 23:42:28 +0000",
@@ -917,6 +932,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_rod_nether": {
+    "criteria": {
+      "gobber2_rod_nether": "2025-06-09 03:24:47 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_rod": {
     "criteria": {
       "gobber2_rod": "2025-06-06 00:27:36 +0000"
@@ -983,6 +1004,12 @@
     },
     "done": true
   },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-06-09 03:34:02 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_pickaxe": {
     "criteria": {
       "gobber2_pickaxe": "2025-06-07 04:19:50 +0000"
@@ -1034,6 +1061,12 @@
   "undead_unleashed:nerves_of_steel": {
     "criteria": {
       "nerves_of_steel": "2025-06-05 05:51:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-06-09 03:23:17 +0000"
     },
     "done": true
   },

@@ -15536,3 +15536,132 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [09Jun2025 03:04:12.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Jun2025 03:09:12.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jun2025 03:09:12.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:14:12.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:14:12.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:19:12.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:19:12.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:21:12.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter2
+[09Jun2025 03:21:12.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter1
+[09Jun2025 03:21:12.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v
+[09Jun2025 03:21:12.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_h
+[09Jun2025 03:21:12.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_t
+[09Jun2025 03:21:12.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_tall
+[09Jun2025 03:21:12.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_vh
+[09Jun2025 03:21:12.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_long
+[09Jun2025 03:21:12.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_elbow
+[09Jun2025 03:21:12.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_s
+[09Jun2025 03:21:12.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_hv
+[09Jun2025 03:21:12.863] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_vh
+[09Jun2025 03:21:12.864] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_4way
+[09Jun2025 03:21:12.865] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_hv
+[09Jun2025 03:21:12.866] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_end
+[09Jun2025 03:21:12.867] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_end
+[09Jun2025 03:21:13.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_hv
+[09Jun2025 03:21:13.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_v
+[09Jun2025 03:21:13.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_vh
+[09Jun2025 03:21:17.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Light-Sensitive]
+[09Jun2025 03:21:17.527] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106162, l='ServerLevel[world]', x=82.10, y=64.00, z=46.23] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:20.216] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106213, l='ServerLevel[world]', x=85.28, y=65.38, z=49.67] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:22.015] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106208, l='ServerLevel[world]', x=79.79, y=64.00, z=48.59] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:22.916] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106209, l='ServerLevel[world]', x=75.30, y=66.26, z=49.39] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:26.561] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106212, l='ServerLevel[world]', x=90.48, y=60.85, z=52.02] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:37.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106188, l='ServerLevel[world]', x=74.94, y=65.93, z=40.82] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:40.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106205, l='ServerLevel[world]', x=73.98, y=65.00, z=53.37] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:44.423] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106202, l='ServerLevel[world]', x=62.67, y=67.34, z=56.68] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:49.466] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106187, l='ServerLevel[world]', x=65.30, y=63.49, z=41.88] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:21:54.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106186, l='ServerLevel[world]', x=63.27, y=71.96, z=34.25] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:22:05.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/107224, l='ServerLevel[world]', x=50.28, y=65.28, z=51.47] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:22:12.314] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/106247, l='ServerLevel[world]', x=54.13, y=65.60, z=36.50] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:22:47.497] [Worker-Main-200/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:meteor2
+[09Jun2025 03:23:17.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Nightmare Fuel]
+[09Jun2025 03:23:26.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/108523, l='ServerLevel[world]', x=-9.50, y=95.00, z=-47.62] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:24:12.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:24:12.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:24:37.763] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/109025, l='ServerLevel[world]', x=-17.60, y=106.15, z=-57.82] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:24:47.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [The Path to Better Gear]
+[09Jun2025 03:25:00.109] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/108577, l='ServerLevel[world]', x=-14.00, y=112.13, z=-67.25] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:25:18.958] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/109092, l='ServerLevel[world]', x=-18.58, y=113.00, z=-74.34] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:25:30.733] [Worker-Main-174/WARN] [ModernFix/]: The namespace incendium contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Jun2025 03:25:30.733] [Worker-Main-174/DEBUG] [ModernFix/]: Structure incendium:church/glass_ssv is being run through DFU (hash cef7d21bb2f95c6621d595089ea0c06f9dbde6dd2ee3f7b7fbc78ea5d3a73e54), this will cause launch time delays
+[09Jun2025 03:25:32.325] [Worker-Main-174/DEBUG] [ModernFix/]: Structure incendium:church/glass_basalt_deltas is being run through DFU (hash 48ea5fd0134424cf7c1c59b14022d5b78f9a0f40775ac42e466a62641bec2550), this will cause launch time delays
+[09Jun2025 03:25:32.424] [Worker-Main-174/DEBUG] [ModernFix/]: Structure incendium:church/glass_nether_wastes is being run through DFU (hash b5622f1c564ddfea7cf6788d12e1f2e98df5a13d4394628386b593f0ca101489), this will cause launch time delays
+[09Jun2025 03:25:32.440] [Worker-Main-174/DEBUG] [ModernFix/]: Structure incendium:church/glass_infernal_dunes is being run through DFU (hash 615566826dd63fa411687238086aade74b7190741bf10e2bbe51bbde91215073), this will cause launch time delays
+[09Jun2025 03:25:32.463] [Worker-Main-174/DEBUG] [ModernFix/]: Structure incendium:church/glass_toxic_heap is being run through DFU (hash 7ef0d99ec580f51f58726a754b2f90ea7bde39166b3238291defeb1f5e70322b), this will cause launch time delays
+[09Jun2025 03:25:32.504] [Worker-Main-174/DEBUG] [ModernFix/]: Structure incendium:church/glass_withered_forest is being run through DFU (hash 3927463b6f1aedd461992ab82828a99ed628bf9f71e811b1377af9eeb7f02a89), this will cause launch time delays
+[09Jun2025 03:25:33.843] [Worker-Main-174/DEBUG] [ModernFix/]: Structure incendium:church/glass_warped_forest is being run through DFU (hash 38aaf3a06f3724fc2f242fa21697a1e19891fb93b18b41cf8b5270b9cef469ae), this will cause launch time delays
+[09Jun2025 03:25:33.901] [Worker-Main-174/DEBUG] [ModernFix/]: Structure incendium:church/glass_crimson_forest is being run through DFU (hash 86043a05f5d8709859b325f820ddf478d5bc41fc22cf412c3d82689942b58589), this will cause launch time delays
+[09Jun2025 03:25:34.042] [Worker-Main-174/DEBUG] [ModernFix/]: Structure incendium:church/glass_quartz_flats is being run through DFU (hash 2f366e5819f30532579edec0c6524a66c2dc21e2878e200be87c57bd90e6a4fe), this will cause launch time delays
+[09Jun2025 03:25:37.545] [Worker-Main-176/DEBUG] [ModernFix/]: Using cached upgraded version of stalwart_dungeons:keeping_castle_spawn
+[09Jun2025 03:25:59.298] [Worker-Main-207/DEBUG] [ModernFix/]: Using cached upgraded version of ad_astra:meteor1
+[09Jun2025 03:26:02.132] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/110204, l='ServerLevel[world]', x=-114.99, y=87.83, z=-30.04] died: Desert Blaze was slain by korstarck
+[09Jun2025 03:28:14.332] [Worker-Main-206/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool1
+[09Jun2025 03:28:14.373] [Worker-Main-174/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool2
+[09Jun2025 03:28:56.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/111777, l='ServerLevel[world]', x=-18.94, y=36.39, z=153.15] died: Desert Blaze was shot by korstarck
+[09Jun2025 03:29:12.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:29:12.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:31:48.492] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-37, y=104, z=131}
+[09Jun2025 03:31:48.503] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=131, z=95}
+[09Jun2025 03:31:48.503] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=131, z=104}
+[09Jun2025 03:31:48.634] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-180, y=131, z=95}
+[09Jun2025 03:31:48.634] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-180, y=131, z=104}
+[09Jun2025 03:31:48.634] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=131, z=95}
+[09Jun2025 03:31:48.635] [Worker-Main-200/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=131, z=104}
+[09Jun2025 03:31:54.070] [Worker-Main-209/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=104, z=125}
+[09Jun2025 03:32:09.512] [Worker-Main-208/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/farm_ruin/main
+[09Jun2025 03:32:09.520] [Worker-Main-208/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/tower/grassy_small2
+[09Jun2025 03:32:09.537] [Worker-Main-208/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/3/top
+[09Jun2025 03:32:09.542] [Worker-Main-208/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/tower/desert_small1
+[09Jun2025 03:32:09.747] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/inter1 is being run through DFU (hash c0dac385bfefe1aff29a23ac6519563c7fa64def0407ced90312d03c32bf5696), this will cause launch time delays
+[09Jun2025 03:32:11.360] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/stilt1 is being run through DFU (hash 524f4ad0fea53c4654f82d78f6f6afce5f221a35a4ab7867422bfa5f9ab7e82e), this will cause launch time delays
+[09Jun2025 03:32:11.365] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/road1 is being run through DFU (hash f13f328d15d39a7fc675c21b75011934a095f8eb03bdd0bc9193210b289e683a), this will cause launch time delays
+[09Jun2025 03:32:11.387] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/road2 is being run through DFU (hash 08230e4a40aaeaaadebe8d95f27e402afb94e41b67e648b03f104fd06971594d), this will cause launch time delays
+[09Jun2025 03:32:11.413] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_alchemist1 is being run through DFU (hash f0c45ddbc4a272a3afa20f599bc5cc14cb9669d164fe541e4cb9cef047631120), this will cause launch time delays
+[09Jun2025 03:32:13.137] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/road4 is being run through DFU (hash 009ce0ce4d71603f10f2a50f79e721e98ff4a13dc29dee3fc53e2444bc6294f3), this will cause launch time delays
+[09Jun2025 03:32:13.167] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/road10 is being run through DFU (hash b6f6a1284ee2fa2023f088db88cfb6bb086af2ff308e14b481daf24df4db9b91), this will cause launch time delays
+[09Jun2025 03:32:13.185] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large5 is being run through DFU (hash 8b1da4c4eebcf63a587370deb8379842aabfc60bfedb98d796b51c04d8de6b6b), this will cause launch time delays
+[09Jun2025 03:32:13.337] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/road3 is being run through DFU (hash 552544b575744bcd3a04f32a9e9a8313a4b27a4179675c4452b2a3fd6abc6169), this will cause launch time delays
+[09Jun2025 03:32:13.349] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large2 is being run through DFU (hash cbb6b5af60f549beb687c353e69002514043409b4ada9be952d614a3ba4b572e), this will cause launch time delays
+[09Jun2025 03:32:13.414] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small1 is being run through DFU (hash 66f951b108e59dd5a5b0379a5c63ecc7c1c01d224932c5914ab7b2dd710a7708), this will cause launch time delays
+[09Jun2025 03:32:13.464] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large3 is being run through DFU (hash 701a53b6b3775b907a633abda11d68890a019ffd4b82f83a38dd3851049504d3), this will cause launch time delays
+[09Jun2025 03:32:13.510] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large6 is being run through DFU (hash 19f7f221314129807cbbfd858447edf55b9a2083dd85f494cf0724f47c0ac127), this will cause launch time delays
+[09Jun2025 03:32:13.543] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/garden2 is being run through DFU (hash d39f5322f37d7fc1ff5d6abb4347cbc2456dda1893c844ed034a8f1697b32613), this will cause launch time delays
+[09Jun2025 03:32:13.624] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large7 is being run through DFU (hash 1e6640e159dbc9d91f0f550a0b876e2916bae14b408d65e34e54db073acf8253), this will cause launch time delays
+[09Jun2025 03:32:13.686] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/road11 is being run through DFU (hash 6bc5b5cbfbfa85a40396bb3d45f1057bcbc37a90ebd6626790424a8f28dd1a0f), this will cause launch time delays
+[09Jun2025 03:32:13.694] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/garden1 is being run through DFU (hash aa641d2fb631fcc4c495ca6ee3b007605a6d9b46bf31144161dc1dd09af1cdb6), this will cause launch time delays
+[09Jun2025 03:32:13.734] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small4 is being run through DFU (hash 7f010e831e686382453b7f8fc4766cc50fc7528c93badb36d43cb2e7bd9635b8), this will cause launch time delays
+[09Jun2025 03:32:13.764] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small5 is being run through DFU (hash 6fa8406e13535a87bdea9a37c14c2a08d8580519e3b1f6fbd49088da4c7a90d2), this will cause launch time delays
+[09Jun2025 03:32:13.794] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small2 is being run through DFU (hash 57636a4ae0f90daf4e0f1868f6ee49888d568de71b4a01bb11d6e053a04f6caf), this will cause launch time delays
+[09Jun2025 03:32:13.843] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large1 is being run through DFU (hash 63f4ae85b2c6e70a05d041dc2b7b1f7e26b185715ae84351845558ebdb9085f5), this will cause launch time delays
+[09Jun2025 03:32:14.029] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large4 is being run through DFU (hash 96b0cf73477d63fe4450c1fab6840077df9fde3d20b033622bd0fa8a15ca8be0), this will cause launch time delays
+[09Jun2025 03:32:14.138] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/inter2 is being run through DFU (hash dbd90e9be17148afbb99458cd6a96046034aacc32d6361a12a7d9f0784e6811e), this will cause launch time delays
+[09Jun2025 03:32:14.192] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large8 is being run through DFU (hash a6451d2b4e31b57097940c37bcb7e1dc0f46c59919e1a22f772f2f9998a5c8ba), this will cause launch time delays
+[09Jun2025 03:32:14.320] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/road8 is being run through DFU (hash 7898de42fa9f98db5b1b3123ffb8ba70cb37e9a597dbe7efe1b9b140363ed632), this will cause launch time delays
+[09Jun2025 03:32:14.338] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/inter5 is being run through DFU (hash 78ec5651716cf4080a3226cc45c77cc2e959a5370bd4ec83f4b134f591401b6e), this will cause launch time delays
+[09Jun2025 03:32:14.387] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small6 is being run through DFU (hash 1b7eae442fad64b10ebd62c4860b20fcd85d82f8857a27501f28fcee938200ce), this will cause launch time delays
+[09Jun2025 03:32:14.475] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/inter6 is being run through DFU (hash b01cb11a48697c9199130e3700bea7676d52a89adcb7cf0ee30c74b403648fb5), this will cause launch time delays
+[09Jun2025 03:32:14.522] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/road9 is being run through DFU (hash 742ad9715da6f5bdc5037355dc58e12eeb5eb5999a46dff47db34d87e64c0ac1), this will cause launch time delays
+[09Jun2025 03:32:14.533] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small3 is being run through DFU (hash cb52127773a55244a6e439d8726e1659715cb2a7ac1aab45e259115347dfc9de), this will cause launch time delays
+[09Jun2025 03:32:14.564] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/road7 is being run through DFU (hash fa094bb311754ff85b79e4a0daf5507f980d9f2dd154091b38efaf6108848718), this will cause launch time delays
+[09Jun2025 03:32:14.572] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/road6 is being run through DFU (hash 7d33233f18e9b904e29c20761043fdf1b9391fad107d731158d9b0815cf838b3), this will cause launch time delays
+[09Jun2025 03:32:14.582] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/road5 is being run through DFU (hash 669c73b09f0252ad9701658cef54c22d070796d59efb65a35c220f6e9f400b7d), this will cause launch time delays
+[09Jun2025 03:32:14.600] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_lumberjack2 is being run through DFU (hash 459f2d80d75933aae905e4a42f067f667b627114f1cb30390ac491698e7a098f), this will cause launch time delays
+[09Jun2025 03:32:14.613] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/inter4 is being run through DFU (hash 98b7bc8da1ef52a28017f981c7fc6687c9a832fb2366ebad510907cb84056d00), this will cause launch time delays
+[09Jun2025 03:32:14.624] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/inter3 is being run through DFU (hash f9f91aba90f0ea2fcac09e88362a16f99ac8b78e2b687307904128afddf17ac0), this will cause launch time delays
+[09Jun2025 03:32:14.634] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_lumberjack1 is being run through DFU (hash f1a46fd488bc202c60f845f7346e0504c839cd3ecc5eb997e7bc7569fa775f36), this will cause launch time delays
+[09Jun2025 03:32:14.759] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_worker1 is being run through DFU (hash acbf21e5625531a22a3b1c3a78690968c638fbfcd9ad121d0aaee39de9145747), this will cause launch time delays
+[09Jun2025 03:32:15.088] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_miner1 is being run through DFU (hash 51eb1dd88ef2e46d016851d648d796300012c830ce8f909e3116ad61162a416b), this will cause launch time delays
+[09Jun2025 03:32:15.137] [Worker-Main-207/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_armored is being run through DFU (hash 9d11d79f2772586dbd23deb56c7273315fac21255abd73a9315d506e44542be9), this will cause launch time delays
+[09Jun2025 03:32:17.598] [Worker-Main-206/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=113, z=106}
+[09Jun2025 03:32:17.598] [Worker-Main-206/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=113, z=107}
+[09Jun2025 03:32:17.598] [Worker-Main-206/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=113, z=108}
+[09Jun2025 03:32:17.599] [Worker-Main-206/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=113, z=105}
+[09Jun2025 03:33:04.553] [Worker-Main-176/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-28, y=104, z=92}
+[09Jun2025 03:33:37.667] [Worker-Main-207/WARN] [ModernFix/]: The namespace stalwart_dungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[09Jun2025 03:33:37.667] [Worker-Main-207/DEBUG] [ModernFix/]: Structure stalwart_dungeons:awful_dungeon_spawn is being run through DFU (hash cc90fe7a581172f7938d66889ef9e554344bbe24f26c25d7a8803eaa249cef63), this will cause launch time delays
+[09Jun2025 03:33:41.430] [Worker-Main-174/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/rock_house1
+[09Jun2025 03:33:41.450] [Worker-Main-174/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/barn1
+[09Jun2025 03:33:41.466] [Worker-Main-174/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/top
+[09Jun2025 03:33:46.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has reached the goal [An Illager Refuge?]
+[09Jun2025 03:34:02.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Hellish Paradise]
+[09Jun2025 03:34:12.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:34:12.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
