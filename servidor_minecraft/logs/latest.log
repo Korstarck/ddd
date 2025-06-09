@@ -875,3 +875,6 @@
 [09Jun2025 00:49:09.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHILD ETECted
 [09Jun2025 00:49:09.866] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity myceliummire:slamentity but it was marked as removed already
 [09Jun2025 00:50:00.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [korstarck: Set own game mode to Survival Mode]
+[09Jun2025 01:05:04.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: korstarck lost connection: Disconnected
+[09Jun2025 01:05:04.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck left the game
+[09Jun2025 01:05:04.366] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
