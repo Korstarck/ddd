@@ -881,6 +881,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-06-09 00:27:24 +0000"
+    },
+    "done": true
+  },
   "enemyexpansion:troll_hunter": {
     "criteria": {
       "troll_hunter_0": "2025-06-04 01:47:04 +0000"
