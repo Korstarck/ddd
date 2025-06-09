@@ -15682,3 +15682,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [09Jun2025 03:44:07.432] [Worker-Main-208/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house3
 [09Jun2025 03:44:17.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jun2025 03:44:17.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:49:17.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:49:17.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:51:07.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Boo!]
+[09Jun2025 03:54:17.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:54:17.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

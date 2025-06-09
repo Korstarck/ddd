@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "undead_unleashed:boo": {
+    "criteria": {
+      "boo": "2025-06-09 03:51:07 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
