@@ -14862,3 +14862,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [09Jun2025 00:49:12.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jun2025 00:49:12.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Jun2025 00:50:00.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [korstarck: Set own game mode to Survival Mode]
+[09Jun2025 00:54:12.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 00:54:12.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 00:59:12.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 00:59:12.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
