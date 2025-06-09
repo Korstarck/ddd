@@ -60,6 +60,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-09 00:07:53 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-06-03 03:09:57 +0000"
@@ -307,6 +313,12 @@
   "create:brass": {
     "criteria": {
       "0": "2025-06-08 21:39:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-06-09 00:06:48 +0000"
     },
     "done": true
   },
@@ -677,6 +689,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_armor": {
+    "criteria": {
+      "gobber2_chestplate": "2025-06-09 00:03:50 +0000"
     },
     "done": true
   },
