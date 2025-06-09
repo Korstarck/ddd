@@ -767,3 +767,87 @@
 [09Jun2025 00:32:42.553] [Worker-Main-59/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [123, -46], pos: BlockPos{x=1983, y=70, z=-724}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
 [09Jun2025 00:32:42.554] [Worker-Main-59/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [123, -46], pos: BlockPos{x=1983, y=70, z=-725}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
 [09Jun2025 00:32:42.554] [Worker-Main-59/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [123, -46], pos: BlockPos{x=1983, y=71, z=-724}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:32:47.795] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [120, -45], pos: BlockPos{x=1932, y=50, z=-720}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:32:47.795] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [119, -45], pos: BlockPos{x=1916, y=50, z=-720}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:40.482] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:40.482] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:40.482] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:40.482] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:40.482] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:40.483] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:40.483] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:40.483] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:40.483] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:40.840] [Worker-Main-17/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [113, -47], pos: BlockPos{x=1812, y=62, z=-752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:40.840] [Worker-Main-17/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [112, -47], pos: BlockPos{x=1796, y=62, z=-752}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:41.127] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:41.127] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:41.137] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [96, -49], pos: BlockPos{x=1551, y=93, z=-771}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:41.138] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [96, -50], pos: BlockPos{x=1551, y=93, z=-787}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:41.140] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [100, -49], pos: BlockPos{x=1600, y=95, z=-774}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:41.140] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [100, -49], pos: BlockPos{x=1600, y=95, z=-773}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:41.140] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [100, -49], pos: BlockPos{x=1601, y=95, z=-773}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:41.140] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [100, -48], pos: BlockPos{x=1601, y=95, z=-758}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:41.140] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [100, -49], pos: BlockPos{x=1602, y=95, z=-774}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:41.141] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [100, -48], pos: BlockPos{x=1602, y=95, z=-758}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:41.141] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [100, -49], pos: BlockPos{x=1600, y=96, z=-773}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:41.141] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [100, -48], pos: BlockPos{x=1600, y=96, z=-759}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:41.141] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [100, -48], pos: BlockPos{x=1600, y=96, z=-758}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:41.141] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [100, -48], pos: BlockPos{x=1601, y=96, z=-758}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:41.141] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [100, -49], pos: BlockPos{x=1600, y=97, z=-773}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:41.141] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [100, -48], pos: BlockPos{x=1600, y=97, z=-759}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:41.141] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [100, -48], pos: BlockPos{x=1600, y=97, z=-758}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:41.141] [Worker-Main-18/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [100, -48], pos: BlockPos{x=1600, y=98, z=-759}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:41.291] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:51.769] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:52.359] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:52.360] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:52.376] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:52.377] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:52.377] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:52.377] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:52.377] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:52.377] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:52.377] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:52.377] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:52.377] [Worker-Main-59/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:33:52.598] [Worker-Main-19/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [94, -49], pos: BlockPos{x=1514, y=121, z=-784}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:33:52.598] [Worker-Main-19/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [93, -49], pos: BlockPos{x=1498, y=121, z=-784}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:34:01.855] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/39642, l='ServerLevel[world]', x=1729.43, y=72.00, z=-767.43] died, message: 'Unemployed suffocated in a wall'
+[09Jun2025 00:35:14.631] [Worker-Main-59/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, -45], pos: BlockPos{x=1391, y=115, z=-718}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:35:14.631] [Worker-Main-59/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, -45], pos: BlockPos{x=1391, y=115, z=-717}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:35:14.631] [Worker-Main-59/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, -45], pos: BlockPos{x=1390, y=115, z=-717}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:35:14.632] [Worker-Main-59/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, -44], pos: BlockPos{x=1390, y=115, z=-702}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:35:14.632] [Worker-Main-59/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, -45], pos: BlockPos{x=1389, y=115, z=-718}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:35:14.632] [Worker-Main-59/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, -44], pos: BlockPos{x=1389, y=115, z=-702}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:35:14.632] [Worker-Main-59/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, -45], pos: BlockPos{x=1391, y=116, z=-717}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:35:14.632] [Worker-Main-59/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, -44], pos: BlockPos{x=1391, y=116, z=-703}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:35:14.632] [Worker-Main-59/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, -44], pos: BlockPos{x=1391, y=116, z=-702}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:35:14.632] [Worker-Main-59/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, -44], pos: BlockPos{x=1390, y=116, z=-702}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:35:14.633] [Worker-Main-59/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, -45], pos: BlockPos{x=1391, y=117, z=-717}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:35:14.633] [Worker-Main-59/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, -44], pos: BlockPos{x=1391, y=117, z=-703}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:35:14.633] [Worker-Main-59/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, -44], pos: BlockPos{x=1391, y=117, z=-702}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:35:14.633] [Worker-Main-59/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [86, -44], pos: BlockPos{x=1391, y=118, z=-703}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / myceliummire:gigatree]
+[09Jun2025 00:35:17.367] [Worker-Main-17/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:35:41.788] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id cursedmodtwo:mushroom_trader
+[09Jun2025 00:41:10.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: korstarck lost connection: Timed out
+[09Jun2025 00:41:10.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck left the game
+[09Jun2025 00:41:10.411] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[09Jun2025 00:41:10.458] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jun2025 00:41:18.408] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@712adf0b
+[09Jun2025 00:41:18.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: korstarck[/127.68.90.235:53251] logged in with entity id 44480 at (815.0611160766309, 73.0, 316.8841044951418)
+[09Jun2025 00:41:18.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck joined the game
+[09Jun2025 00:41:18.470] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[09Jun2025 00:41:18.470] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[09Jun2025 00:41:18.470] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[09Jun2025 00:41:18.471] [Server thread/INFO] [Jade/]: Syncing config to korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e)
+[09Jun2025 00:41:48.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: korstarck lost connection: Timed out
+[09Jun2025 00:41:48.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck left the game
+[09Jun2025 00:41:48.561] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[09Jun2025 00:41:51.957] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@17df0e28
+[09Jun2025 00:41:51.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: korstarck[/127.68.90.235:56799] logged in with entity id 44979 at (815.0687809580791, 73.0, 317.13342070785444)
+[09Jun2025 00:41:51.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck joined the game
+[09Jun2025 00:41:52.013] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[09Jun2025 00:41:52.013] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[09Jun2025 00:41:52.013] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[09Jun2025 00:41:52.014] [Server thread/INFO] [Jade/]: Syncing config to korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e)

@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 00:40:12 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
@@ -167,6 +173,12 @@
       "has_the_recipe": "2025-06-03 03:09:58 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 00:40:12 +0000"
+    },
+    "done": false
   },
   "create:portable_storage_interface": {
     "criteria": {
@@ -533,6 +545,12 @@
     },
     "done": false
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 00:40:12 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
@@ -586,6 +604,12 @@
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 00:40:12 +0000"
+    },
+    "done": false
   },
   "enemyexpansion:vampire_slayer": {
     "criteria": {
@@ -729,6 +753,18 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 00:40:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 00:40:12 +0000"
+    },
+    "done": false
+  },
   "knight_quest:kq_quest_source": {
     "criteria": {
       "kq_quest_source": "2025-06-03 03:09:57 +0000"
@@ -765,6 +801,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 00:40:12 +0000"
+    },
+    "done": false
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-06-03 05:14:05 +0000",
@@ -796,6 +838,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 00:40:12 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
@@ -807,6 +855,12 @@
       "gobber2_excavator": "2025-06-06 00:27:49 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 00:40:12 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
@@ -838,6 +892,12 @@
       "entered_nether": "2025-06-08 21:37:29 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 00:40:12 +0000"
+    },
+    "done": false
   },
   "mekanism:root": {
     "criteria": {
@@ -965,6 +1025,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 00:40:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-06-04 02:00:13 +0000"
@@ -1054,6 +1120,12 @@
       "gobber2_tree_axe": "2025-06-06 02:50:13 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 00:40:12 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3120
 }
