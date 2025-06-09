@@ -14832,3 +14832,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [09Jun2025 00:41:52.013] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
 [09Jun2025 00:41:52.014] [Server thread/DEBUG] [com.possible_triangle.create_jetpack.CreateJetpackMod/]: Sending server config to korstarck
 [09Jun2025 00:41:52.014] [Server thread/INFO] [Jade/]: Syncing config to korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e)
+[09Jun2025 00:44:12.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 00:44:12.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 00:45:59.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHILD ETECted
+[09Jun2025 00:45:59.189] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity myceliummire:slamentity but it was marked as removed already
+[09Jun2025 00:46:00.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHILD ETECted
+[09Jun2025 00:46:00.745] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity myceliummire:slamentity but it was marked as removed already
+[09Jun2025 00:46:04.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck blew up
+[09Jun2025 00:46:04.130] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for korstarck with unique ID travelersbackpack.standard_09.06.2025-00.46.04.dat
+[09Jun2025 00:46:04.130] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 821 Y: 72.0 Z: 289
+[09Jun2025 00:46:04.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHILD ETECted
+[09Jun2025 00:46:04.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity myceliummire:slamentity but it was marked as removed already
+[09Jun2025 00:46:06.287] [Server thread/DEBUG] [twilightforest/]: Player korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e) respawned and received items held in storage
+[09Jun2025 00:46:17.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHILD ETECted
+[09Jun2025 00:46:17.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity myceliummire:slamentity but it was marked as removed already
+[09Jun2025 00:46:23.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHILD ETECted
+[09Jun2025 00:46:23.265] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity myceliummire:slamentity but it was marked as removed already
+[09Jun2025 00:46:23.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck was killed by magic
+[09Jun2025 00:46:24.693] [Server thread/DEBUG] [twilightforest/]: Player korstarck (2a7cbbaa-f141-3405-a02c-c6b66381259e) respawned and received items held in storage
+[09Jun2025 00:46:56.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [korstarck: Set own game mode to Creative Mode]
+[09Jun2025 00:48:32.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHILD ETECted
+[09Jun2025 00:48:32.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity myceliummire:slamentity but it was marked as removed already
+[09Jun2025 00:48:38.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHILD ETECted
+[09Jun2025 00:48:38.164] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity myceliummire:slamentity but it was marked as removed already
+[09Jun2025 00:48:47.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHILD ETECted
+[09Jun2025 00:48:47.165] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity myceliummire:slamentity but it was marked as removed already
+[09Jun2025 00:49:09.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CHILD ETECted
+[09Jun2025 00:49:09.866] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity myceliummire:slamentity but it was marked as removed already
+[09Jun2025 00:49:12.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 00:49:12.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 00:50:00.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [korstarck: Set own game mode to Survival Mode]
