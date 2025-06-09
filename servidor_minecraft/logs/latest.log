@@ -933,3 +933,7 @@
 [09Jun2025 03:33:37.667] [Worker-Main-207/WARN] [ModernFix/]: The namespace stalwart_dungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [09Jun2025 03:33:46.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has reached the goal [An Illager Refuge?]
 [09Jun2025 03:34:02.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Hellish Paradise]
+[09Jun2025 03:34:56.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
+[09Jun2025 03:43:12.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Into Fire]
+[09Jun2025 03:43:40.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3466ms or 69 ticks behind
+[09Jun2025 03:43:59.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has completed the challenge [Quest: Find Three Great Essence]

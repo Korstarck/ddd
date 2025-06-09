@@ -254,6 +254,12 @@
     },
     "done": true
   },
+  "knight_quest:kq_quest_find_great_essence": {
+    "criteria": {
+      "kq_quest_find_great_essence": "2025-06-09 03:43:59 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-06-03 03:09:58 +0000"
@@ -582,6 +588,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-09 03:43:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-06-03 03:18:35 +0000"
@@ -836,6 +848,7 @@
       "minecraft:husk": "2025-06-05 02:00:44 +0000",
       "minecraft:cave_spider": "2025-06-07 04:10:12 +0000",
       "minecraft:enderman": "2025-06-06 05:00:26 +0000",
+      "minecraft:vex": "2025-06-09 03:36:05 +0000",
       "minecraft:zombie": "2025-06-03 03:21:32 +0000",
       "minecraft:drowned": "2025-06-03 03:21:28 +0000",
       "minecraft:zombie_villager": "2025-06-04 01:32:05 +0000"
@@ -925,6 +938,12 @@
       "has_the_recipe": "2025-06-03 03:09:57 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-09 03:35:36 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {

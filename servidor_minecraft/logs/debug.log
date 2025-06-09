@@ -15665,3 +15665,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 3:
 [09Jun2025 03:34:02.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Hellish Paradise]
 [09Jun2025 03:34:12.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jun2025 03:34:12.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:34:53.762] [Server thread/DEBUG] [ModernFix/]: Structure stalwart_dungeons:keeping_castle is being run through DFU (hash 3d8cf1b983e7519127432d5bf96619a94b1e0242e2316a29870ba4596cafc2cf), this will cause launch time delays
+[09Jun2025 03:34:56.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
+[09Jun2025 03:37:56.288] [Worker-Main-206/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool3
+[09Jun2025 03:39:14.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:39:14.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:41:43.475] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[09Jun2025 03:42:05.022] [Worker-Main-208/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house1
+[09Jun2025 03:42:05.028] [Worker-Main-208/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower3
+[09Jun2025 03:42:05.034] [Worker-Main-208/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[09Jun2025 03:43:12.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has made the advancement [Into Fire]
+[09Jun2025 03:43:37.166] [Server thread/DEBUG] [ModernFix/]: Structure stalwart_dungeons:awful_dungeon is being run through DFU (hash ff93f06c1dc570003bb756524522d5e2c3003bac7b21db6a3118ad9a737e2397), this will cause launch time delays
+[09Jun2025 03:43:40.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3466ms or 69 ticks behind
+[09Jun2025 03:43:59.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: korstarck has completed the challenge [Quest: Find Three Great Essence]
+[09Jun2025 03:44:07.427] [Worker-Main-208/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/arch1
+[09Jun2025 03:44:07.432] [Worker-Main-208/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house3
+[09Jun2025 03:44:17.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:44:17.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
